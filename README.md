@@ -19,14 +19,14 @@ Ini aplikasi yang udah di build menjadi apk : https://github.com/naufal-al-munaw
 
 | Screenshot | Deskripsi |
 |------------|-----------|
-| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/halaman_login.jpg" width="250" title="hover text"> | Halaman login aplikasi |
-| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/halaman%20signup.jpg" width="250" title="hover text"> | Halaman signup aplikasi |
-| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/listhome_catatan_2.jpg" width="250" title="hover text"> | Halaman home list catatan aplikasi |
-| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Halaman_penentuan_pengingat_catatan_6.jpg" width="250" title="hover text"> | Halaman pengatur pengingat |
+| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/halaman_login.jpg" width="250" title="hover text"> | Halaman login aplikasi ini berfungsi sebagai masuk nya akun agar pengguna bisa mencatat di aplikasi ini, dengan tujuan semua catatan yang dia simpan bakal terseimpan di akun tersebut jika pengguna mempunyai hp baru dan ternyata pengguna masih ingat dengan akun tersebut maka catatan itu tidak hilang |
+| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/halaman%20signup.jpg" width="250" title="hover text"> | Halaman signup aplikasi ini merupakan pembuatan akun jika pengguna belum memiliki akun ini |
+| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/listhome_catatan_2.jpg" width="250" title="hover text"> | Halaman home list catatan aplikasi ini merupakan halaman list catatan yang sudah disimpan |
+| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Halaman_penentuan_pengingat_catatan_6.jpg" width="250" title="hover text"> | Halaman penentuan pengingat berdasarkan jam, pengguna dapat menentukan pengingat agar catatan tersebut dapat di notice oleh pengguna |
 | <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Halaman_catatan_3.jpg" width="250" title="hover text"> | Halaman catatan aplikasi |
-| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Halaman_penentuan_pengingat_Tanggal_catatan_7.jpg" width="250" title="hover text"> | Halaman pengingat tanggal aplikasi |
-| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Halaman_logout_dan%20profil.jpg" width="250" title="hover text"> | Halaman profil account pengguna |
-| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Halaman%20ketika%20berhasil%20login.jpg" width="250" title="hover text"> | Halaman jika pengguna berhasil login |
+| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Halaman_penentuan_pengingat_Tanggal_catatan_7.jpg" width="250" title="hover text"> | Halaman pengingat tanggal aplikasi pengguna dapat menentukan pengingat dengan media tanggal yang muncul secara popup |
+| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Halaman_logout_dan%20profil.jpg" width="250" title="hover text"> | Halaman profil account pengguna, sebuah label nama akun pengguna |
+| <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Halaman%20ketika%20berhasil%20login.jpg" width="250" title="hover text"> | Halaman jika pengguna berhasil login, jika pengguna memiliki akun dan benar maka pengguna dapat login ke aplikasi tersebut |
 | <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/Muncul_Notif_pengingat_5.jpg" width="250" title="hover text"> | Halaman jika waktu sudah menunjukan aktif pengingat maka akan muncul sebuah notifikasi pada aplikasi itu |
 | <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/halaman%20login%20jika%20tidak%20terisi%20dan%20mencoba%20masuk.jpg" width="250" title="hover text"> | Halaman jika kolom email dll belum diisi maka akan muncul peringatan |
 | <img src="https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/halaman%20signup%20jika%20password%20nya%20kurang%20kuat.jpg" width="250" title="hover text"> | Halaman signup jika password kurang kuat |
