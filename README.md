@@ -9,6 +9,7 @@ Ini aplikasi yang udah di build menjadi apk : https://github.com/naufal-al-munaw
 ## Profil
 
 | Label | Deskripsi |
+|------------|-----------|
 |Nama|Naufal Al Munawar|
 |Jurusan|Teknik Informatika|
 |Asal Kampus|Politeknik Negeri Indramayu|
