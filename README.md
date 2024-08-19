@@ -4,7 +4,7 @@ Soal Mobile Depelover
 
 ## Deskripsi Lengkap
 
-(https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/halaman_login.jpg)
+![Gambar](https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/halaman_login.jpg)
 
 Ini aplikasi yang udah di build menjadi apk : (https://www.example.com](https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/app-release.apk)
 
