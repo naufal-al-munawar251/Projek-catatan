@@ -6,6 +6,14 @@ Soal Mobile Depelover
 
 Ini aplikasi yang udah di build menjadi apk : https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/app-release.apk
 
+## Profil
+
+| Label | Deskripsi |
+|Nama|Naufal Al Munawar|
+|Jurusan|Teknik Informatika|
+|Asal Kampus|Politeknik Negeri Indramayu|
+|Lulus|Oktober Mendatang|
+
 ## Documentasi Penggunaan Aplikasi
 
 | Screenshot | Deskripsi |
