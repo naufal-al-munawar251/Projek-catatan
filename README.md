@@ -1,6 +1,6 @@
-# aplikasi_catatan
+# Judul: Aplikasi Catatan Harian
 
-A new Flutter project.
+Soal Mobile Depelover
 
 ## Getting Started
 
