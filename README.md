@@ -4,6 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-[teks yang ditampilkan](https://www.example.com](https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/app-release.apk)
+[Ini aplikasi yang udah di build menjadi apk](https://www.example.com](https://github.com/naufal-al-munawar251/Projek-catatan/blob/master/app-release.apk)
 
 
