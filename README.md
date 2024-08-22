@@ -14,6 +14,7 @@ Ini aplikasi yang udah di build menjadi apk : https://github.com/naufal-al-munaw
 |Jurusan|Teknik Informatika|
 |Asal Kampus|Politeknik Negeri Indramayu|
 |Lulus|Oktober Mendatang|
+|No Whatsapp|+6289687840320|
 
 ## Documentasi Penggunaan Aplikasi
 
